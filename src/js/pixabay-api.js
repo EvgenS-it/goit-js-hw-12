@@ -1,3 +1,5 @@
+// import axios from 'axios';
+
 const API = {
   PIXABAY: {
     PATH: 'https://pixabay.com/api/',
